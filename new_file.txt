@@ -1,2 +1,3 @@
 This is new files created to use `git fetch` cmd.
 Code pushed from developmet branch.Code pushed from bug_fix branch.
+This is commit from new_branch.
