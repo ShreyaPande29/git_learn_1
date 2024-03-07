@@ -1,12 +1,9 @@
 dsfdsfdsfdsfdf
-<<<<<<< HEAD
 Code pushed from developmet branch.
 Code pushed from bug_fix branch.
-=======
 sdfkhdsfkjdsfd
 dsfkjdshfkjdshfkjdsfd
 fdsjfkhdskjfhdskjf
 fdshfiudshfiudsihfds
 nfhiudshfiuyeiufe
 fncjdskcbndij
->>>>>>> 0c5eccb (added:new lines)
